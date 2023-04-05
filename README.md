@@ -1,0 +1,2 @@
+# magnus
+Projeto Strapi Magnus
